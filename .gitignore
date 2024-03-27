@@ -1,0 +1,4 @@
+/bin/demo_beego
+/bin/conf/app.conf
+go.sum
+.idea
